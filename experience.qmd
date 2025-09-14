@@ -1,0 +1,56 @@
+
+### Egnyte
+**Software Engineer** | Jun 2023 - Present 
+
+- Spearheaded the end-to-end development of customer-facing Generative AI features, including the Egnyte Global Copilot, by designing and implementing scalable microservices and REST APIs with Spring Boot and a dynamic frontend using React and Typescript.
+- Owned the ’Bring Your Own Model’ (BYOM) feature from concept to deployment, leading the system design, REST API development, and database architecture using PostgreSQL.
+- Managed the full lifecycle of the BYOM feature by deploying the service via Docker and Kubernetes on Google Cloud Platform (GCP) and subsequently audited customer traction and performance using Kibana and Google BigQuery.
+- Established a robust automation framework for all AI features by developing comprehensive test suites in Python with Pytest, integrated into a Jenkins CI/CD pipeline to guarantee the quality and reliability of AI-generated responses.
+<div class="skills">
+  <span>Python</span> 
+  <span>Java</span> 
+  <span>Spring Boot</span> 
+  <span>PyTest</span> 
+  <span>PostgreSQL</span> 
+  <span>Jenkins</span> 
+  <span>CI/CD</span> 
+  <span>Docker</span> 
+  <span>Kubernetes</span>
+  <span>Google Cloud Platform</span>
+  <span>BigQuery</span>
+</div>
+
+**Software Engineer - Intern** | Jan 2023 - Jun 2023  
+
+- Engineered an AI-powered Knowledge Based Assistant using Langchain, LLMs, and Java Spring Boot, which slashed response latency by 40% and established a key revenue-generating USP that directly contributed to significant ARR growth.
+- Secured first place in the Egnyte Hackathon 2024 for an innovative AI implementation that demonstrated significant product differentiation potential.
+- Enhanced high-volume data processing capabilities for the Content Migration team by developing and optimizing performance-critical microservices in Go.
+- Accelerated core feature delivery as an intern by mastering Java, Spring, and React to contribute to critical Cloud File Store functionalities like Snapshot Restore.
+<div class="skills">
+  <span>Java</span> 
+  <span>Go</span> 
+  <span>Spring Boot</span> 
+  <span>Junit5</span> 
+  <span>LangChain</span>
+  <span>LangFuse</span> 
+  <span>ElasticSearch</span> 
+  <span>LLMs</span>
+  <span>GenAI</span> 
+  <span>RAG</span> 
+  <span>ReactJS</span> 
+  <span>WDIO</span> 
+</div>
+
+### Indian Institute of Science
+**Research Intern** | Jun 2022 - Aug 2022  
+
+- Implemented precise point-to-point autonomous navigation for a warehouse robot using ROS, SLAM (GMapping),OpenCV and developed a novel QR code-based localization system to overcome wheel slip issues and achieve accurate positioning.
+- Integrated multiple sensors (RPLidar A3, Intel RealSense D435i, WIT IMU) with ROS for environment mapping and HuggingFace for lite obstacle detection models, enabling autonomous navigation with the DWA (Dynamic Window Approach) planner for efficient path planning.
+<div class="skills">
+  <span>Python</span> 
+  <span>ROS</span> 
+  <span>OpenCV</span> 
+  <span>HuggingFace</span> 
+  <span>Computer Vision</span> 
+  <span>Path Planning Algorithms</span> 
+</div>

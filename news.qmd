@@ -1,0 +1,11 @@
+
+- **Jul 2025**: Participated in [Google Agentic AI Hackathon](https://vision.hack2skill.com/event/googlecloudagenticaiday2025?utm_source=hack2skill&utm_medium=homepage) 
+- **Feb 2024**: Secured first place in [Egnyte Hackathon 2024]() 
+- **Jul 2023**: After successfully completing my internship, I joined as a FTE Software Engineer at [Egnyte](https://www.egnyte.com/)
+- **May 2023**: Presented paper on [speech to speech translation with lip synchronization]((https://ieeexplore.ieee.org/abstract/document/10142578)) at [ICICCS 2023](https://ieeexplore.ieee.org/xpl/conhome/10142228/proceeding)
+- **Jan 2023**: Started my journey as a Software Engineer Intern at [Egnyte](https://www.egnyte.com/)
+- **Nov 2022**: 1st Runner-Up in [The Kannada Hackathon](https://events.pes.edu/10646/)
+- **Dec 2022**: Published research on [non-sequential video indexing]((https://ieeexplore.ieee.org/abstract/document/10029031)) at [ICACRS 2022](https://ieeexplore.ieee.org/xpl/conhome/10028980/proceeding).
+- **Jun 2022**: Joined as a Research Intern at [Indian Institute of Science](https://aero.iisc.ac.in/about/)
+- **Oct 2021**: Secured 1st Runner-Up position at the [HashCode 2K21 Hackathon](https://pes-innovation-lab-hashcode.devfolio.co/overview) hosted by [PES Innovation Lab](https://www.theinnovationlab.in/)
+- **Jul 2021**: Presented and published research on [modeling learner engagement in MOOCs]((https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3884503)) at [ICICC 2021](https://icicc-conf.com/icicc21).

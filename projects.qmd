@@ -1,0 +1,67 @@
+##### **Sahayak - AI-Powered Teaching Assistant**
+[Google Agentic AI Hackathon](https://ash301101.egnyte.com/dl/j8C9YfpY7VPq)
+
+- Developed Sahayak, an AI-powered teaching assistant for Indian educators. I architected and built this platform using LangChain, LangGraph, Agentic AI and the Gemini API, creating a multi-agent system to support teachers in multi-grade, multilingual, and resource-constrained classrooms.\
+- Implemented a four-agent architecture to handle key educational tasks: VidyaMitra (a multimodal teaching assistant), SmartEval (an automated grading system), ConceptCanvas (a visual content generator), and SelfEval (a performance tracking tool). This system enables real-time lesson planning, assessment creation, and educational content generation, streamlining teacher-assistant interactions.\
+[]()
+<div class="skills">
+  <span>Python</span> 
+  <span>Flask</span> 
+  <span>TensorFlow</span> 
+  <span>PyTorch</span> 
+  <span>OpenCV</span> 
+  <span>LangChain</span>
+  <span>LangGraph</span> 
+  <span>Agentic AI</span> 
+  <span>Gemini API</span> 
+  <span>Multi-Agent System</span> 
+  <span>Gen AI</span>  
+  <span>PostgreSQL</span> 
+  <span>LLMs</span>
+</div>
+
+
+##### **Low Resource Speech-to-Speech Translation of English videos to Kannada with Lip-Synchronization**
+[ICICCS 2023](https://ieeexplore.ieee.org/xpl/conhome/10142228/proceeding)
+&nbsp;&nbsp;&nbsp;&nbsp;[Paper](https://ieeexplore.ieee.org/abstract/document/10142578)
+
+- Devised a speech-to-speech translation system with Automatic Speech Recognition(ASR), Neural Machine Translation(NMT), Text to Speech(TTS), and lip-synchronization; achieved BLEU score of 85.26% for translation, MOS of 4.56 for lip-synced video, and MOS of 4.94 for synthesized audio, enabling seamless audio-visual alignment.\
+<div class="skills">
+  <span>Python</span> 
+  <span>HuggingFace</span> 
+  <span>Pandas</span> 
+  <span>Numpy</span> 
+  <span>Scikit-learn</span> 
+  <span>PyTorch</span> 
+  <span>Keras</span>
+  <span>Streamlit</span>
+</div>
+
+##### **Non-Sequential Indexing of Videos using Linguistic Computation**
+[ICACRS 2022](https://ieeexplore.ieee.org/xpl/conhome/10028980/proceeding)
+&nbsp;&nbsp;&nbsp;&nbsp;[Paper](https://ieeexplore.ieee.org/abstract/document/10029031)
+
+- Developed a non-sequential video indexing system leveraging ASR, Natural Language Processing(NLP), Natural Language Toolkit(NLTK), and Optical Character Recognition(OCR) to auto-generate keyword-based timestamps with a tolerance of ±2s from ground truth.\
+<div class="skills">
+  <span>Python</span> 
+  <span>OCR</span> 
+  <span>NLTK</span> 
+  <span>NLP</span> 
+  <span>ASR</span> 
+  <span>OpenCV</span> 
+  <span>HuggingFace</span> 
+</div>
+
+##### **Estimation of Engagement of Learners in MOOCs using Smart Visual Processing**
+[ICICC 2021](https://icicc-conf.com/icicc21)
+&nbsp;&nbsp;&nbsp;&nbsp;[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3884503)
+
+- Developed a computer-vision-based system for real-time student engagement estimation in online lectures using gaze detection, head pose estimation, drowsiness detection, and anti–video-spoofing models to quantify learners’ attention.\
+<div class="skills">
+  <span>Python</span> 
+  <span>TensorFlow</span> 
+  <span>OpenCV</span> 
+  <span>HuggingFace</span>
+  <span>Pandas</span> 
+  <span>Numpy</span> 
+</div>

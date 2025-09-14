@@ -1,0 +1,8 @@
+- **Programming Languages**: C,  C++,  Python,  Java,  Go,  Typescript
+- **Frameworks & Libraries**: Pandas, NumPy, Scikit-learn, TensorFlow, HuggingFace, Keras, PyTorch, OpenCV, LangChain, LangGraph, Spring, Spring Boot, Django, MySQL, WebDriverIO (WDIO), Jest, Webpack, Flutter, JUnit5, Mockito, Elastic Search, Elastic Cache, Kafka, PyTest, Flask, NLTK
+- **AI/ML/DL**: Generative AI (GenAI), Retrieval Augmented Generation (RAG), Large Language Models(LLMs), Agentic AI, Model Context Protocol (MCP), Computer Vision, Transformers
+- **Tools & Platforms**: Git, Jira, Jenkins, Postman, Continuous Integration(CI), Continuous
+Delivery/Deployment(CD), Docker, Kubernetes, Linux, Shell Scripting, Google Cloud Platform, Kibana, Jetson, Mentor Graphics, Wireshark, Jupyter, NPM, Maven, LaTeX, Cloud Technologies like GCP, AWS, Google Firebase, BigQuery, Redis
+- **Web Technologies**: HTML, CSS, Javascript, React.js, Node.js, Streamlit
+- **Databases**: ChromaDB, FAISS, PostgreSQL
+- **Development Methodologies**: Agile Methodology, REST API Design, Version Control, Microservices Architecture, Unit Testing, Functional Testing, Automation Tests, Exploratory Data Analysis

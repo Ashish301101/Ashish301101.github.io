@@ -1,0 +1,71 @@
+
+
+::: {.grid .about-block}
+
+::: {.g-col-4}
+![](profile.jpg){.profile-pic}
+:::
+
+::: {.g-col-8}
+
+
+<span class="intro-hi">Hi, I’m</span>  
+
+# Ashish H
+
+a Backend and Full Stack Engineer at Egnyte with over 2 years of experience specializing in building and deploying end-to-end intelligent systems using Computer Vision, Machine Learning, and Generative AI and robust scalable backend technologies.
+I hold a Bachelor's Degree in Electronics & Communication (Major) and Computer Science and Engineering (Minor) from [PES University](https://pes.edu/), where I developed a strong foundation in algorithms, applied machine learning and system design.\
+
+At Egnyte, I spearheaded the end-to-end development of customer-facing Generative AI features, including the Global Copilot, by implementing a scalable microservices architecture. I also owned the 'Bring Your Own Model' (BYOM) feature from initial system design to its full deployment on Google Cloud Platform. To guarantee the reliability of all AI-generated responses, I established a robust automation framework using a Python and Pytest CI/CD pipeline, and I’ve also mentored interns on best automation and Agile practices to strengthen collaboration and improve sprint productivity.\
+
+My journey extends beyond engineering into research contributions and applied innovation, with work published at various conferences, reflecting my passion for bridging advanced AI research with real-world applications.
+
+<div class="social-icons">
+  <a href="mailto:ashishappu14@gmail.com">
+    <i class="bi bi-envelope-fill icon"></i>
+  </a>
+  <a href="https://www.linkedin.com/in/ashish-h-352a8a179/">
+    <i class="bi bi-linkedin icon"></i>
+  </a>
+  <a href="https://scholar.google.com/citations?user=tICFRdkAAAAJ&hl=en">
+    <i class="bi bi-mortarboard-fill icon"></i>
+    
+
+  </a>
+
+</div>
+:::
+
+:::
+
+---
+
+# News {#news}
+
+{{< include news.qmd >}}
+
+---
+
+# Experience {#experience}
+
+{{< include experience.qmd >}} 
+
+---
+
+# Skills {#skills}
+
+{{< include skills.qmd >}}
+
+---
+
+# Projects & Publications {#projects}
+
+{{< include projects.qmd >}}
+
+---
+
+# Education
+
+{{< include education.qmd >}}
+
+---
