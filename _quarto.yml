@@ -3,6 +3,7 @@ project:
   output-dir: docs
 
 website:
+  site-url: "https://Ashish301101.github.io/ashish-h.github.io"
   title: "Ashish H"
   navbar:
     right:
