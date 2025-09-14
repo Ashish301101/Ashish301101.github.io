@@ -125,6 +125,7 @@ ul.task-list li input[type="checkbox"] {
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
+    <a href="./#" title="" class="quarto-navigation-tool px-1" aria-label="Toggle dark mode"><i class="bi bi-bi-moon-fill"></i></a>
 </div>
       </div> <!-- /container-fluid -->
     </nav>
@@ -705,6 +706,62 @@ ul.task-list li input[type="checkbox"] {
 </div>
   </div>
 </footer>
+<script>
+  // Wait for everything to be fully loaded, including Quarto navbar tools
+  window.addEventListener('load', function() {
+    function initThemeToggle() {
+      // Try multiple selectors to find the theme toggle button
+      const themeToggle = document.querySelector('a[aria-label="Toggle dark mode"]') || 
+                        document.querySelector('.quarto-navigation-tool');
+      const htmlElement = document.documentElement;
+      
+      if (!themeToggle) {
+        // Try again after a short delay
+        setTimeout(initThemeToggle, 100);
+        return;
+      }
+      
+      const themeIcon = themeToggle.querySelector('i');
+      if (!themeIcon) {
+        setTimeout(initThemeToggle, 100);
+        return;
+      }
+      
+      // Add ID and fix the double "bi-" prefix in the icon class
+      themeToggle.id = 'theme-toggle';
+      
+      // Check for saved theme preference or default to light mode
+      const currentTheme = localStorage.getItem('theme') || 'light';
+      
+      // Set initial theme
+      if (currentTheme === 'dark') {
+        htmlElement.setAttribute('data-bs-theme', 'dark');
+        themeIcon.className = 'bi bi-sun-fill';
+      } else {
+        htmlElement.setAttribute('data-bs-theme', 'light');
+        themeIcon.className = 'bi bi-moon-fill';
+      }
+      
+      // Theme toggle functionality
+      themeToggle.addEventListener('click', function(e) {
+        e.preventDefault();
+        const currentTheme = htmlElement.getAttribute('data-bs-theme');
+        
+        if (currentTheme === 'dark') {
+          htmlElement.setAttribute('data-bs-theme', 'light');
+          themeIcon.className = 'bi bi-moon-fill';
+          localStorage.setItem('theme', 'light');
+        } else {
+          htmlElement.setAttribute('data-bs-theme', 'dark');
+          themeIcon.className = 'bi bi-sun-fill';
+          localStorage.setItem('theme', 'dark');
+        }
+      });
+    }
+    
+    initThemeToggle();
+  });
+</script>
 
 
 
