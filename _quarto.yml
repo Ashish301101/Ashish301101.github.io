@@ -41,6 +41,7 @@ format:
     toc: false # To show table of contents on the right side of the page set the parameter to true
     include-in-header: 
       - text: |
+          <meta name="google-site-verification" content="n6Sh4qnYCasY3W1w_3xBKKnlRNOLqmUpTlasIf4vejU" />
           <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
           <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
     include-after-body:
