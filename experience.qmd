@@ -1,6 +1,6 @@
 
 ### Egnyte
-**Software Engineer** | Jun 2023 - Present 
+**Software Engineer** | Jun 2023 - April 2026 
 
 - Spearheaded the end-to-end development of customer-facing Generative AI features, including the Egnyte Global Copilot, by designing and implementing scalable microservices and REST APIs with Spring Boot and a dynamic frontend using React and Typescript.
 - Owned the ’Bring Your Own Model’ (BYOM) feature from concept to deployment, leading the system design, REST API development, and database architecture using PostgreSQL.
